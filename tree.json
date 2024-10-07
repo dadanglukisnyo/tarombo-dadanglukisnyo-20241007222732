@@ -1,0 +1,157 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*6e6f258e-37ae-4706-89fd-a08c33bea160*d1b95c55-0dc0-4e69-854a-7d0f4990b756"
+        },
+        {
+          "ref": "I3*4147c4e3-0cc2-4759-8d25-990d55621d09"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*bcfc240f-2d13-43b3-b843-15d18dbc7868*b21e50a4-f066-47a4-877a-15f77f1bcb24"
+        }
+      ],
+      "id": "F1*48d640ed-ccb0-4dd4-8450-dcb1a28b1b02*fada7cc6-efe6-451f-bcf7-c169e0a7c881"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I4*bff7cad1-e62f-439a-a282-6593cd814bf8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*7b0164b7-6683-480c-b514-046eb227df04"
+        }
+      ],
+      "id": "F2*883cd79b-a377-4975-9c3b-14b85dc87f03"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I6*21e488c0-5712-40f8-bf03-24e930314e4a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*7b0164b7-6683-480c-b514-046eb227df04"
+        }
+      ],
+      "id": "F3*982639cd-76cb-4a3d-968b-ffc837d74005"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "21:45:17",
+      "value": "13 MAY 2024"
+    },
+    "file": "Tree 3.ged",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.4.1 (d8e32da)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*48d640ed-ccb0-4dd4-8450-dcb1a28b1b02*fada7cc6-efe6-451f-bcf7-c169e0a7c881"
+        }
+      ],
+      "id": "I1*bcfc240f-2d13-43b3-b843-15d18dbc7868*b21e50a4-f066-47a4-877a-15f77f1bcb24",
+      "names": [
+        {
+          "value": "Pria /Ketiga/"
+        },
+        {
+          "value": "Uh /Fv/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "U"
+        },
+        {
+          "date": "1 JAN 1945",
+          "place": "Surabaya",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*48d640ed-ccb0-4dd4-8450-dcb1a28b1b02*fada7cc6-efe6-451f-bcf7-c169e0a7c881"
+        }
+      ],
+      "fams": [],
+      "id": "I2*6e6f258e-37ae-4706-89fd-a08c33bea160*d1b95c55-0dc0-4e69-854a-7d0f4990b756",
+      "names": [
+        {
+          "value": "Anak 1 /Ketiga/"
+        },
+        {
+          "value": "Nama /Lain/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "3 JAN 1990",
+          "place": "",
+          "tag": "BIRT"
+        },
+        {
+          "date": "1 JAN",
+          "place": "d",
+          "tag": "DEAT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*48d640ed-ccb0-4dd4-8450-dcb1a28b1b02*fada7cc6-efe6-451f-bcf7-c169e0a7c881"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F2*883cd79b-a377-4975-9c3b-14b85dc87f03"
+        }
+      ],
+      "id": "I3*4147c4e3-0cc2-4759-8d25-990d55621d09",
+      "names": [
+        {
+          "value": "A /A/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "p",
+          "tag": "BIRT"
+        }
+      ]
+    }
+  ]
+}
